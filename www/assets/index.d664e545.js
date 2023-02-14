@@ -1,0 +1,1 @@
+import{e as t}from"./index.a0335495.js";const s=r=>t({url:"/rk/checkTask/historyApp",method:"GET",params:r}),o=r=>t({url:"/rk/checkTask/historyDetailApp",method:"GET",params:r});export{o as a,s as r};

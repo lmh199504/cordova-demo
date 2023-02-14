@@ -1,0 +1,1 @@
+import{e}from"./index.a0335495.js";const s=r=>e({url:"/rk/rkPipeConsumableLibrary/getPositionOccupancy",method:"GET",params:r}),t=r=>e({url:"/rk/rkPipeConsumableLibrary/getByRackCode",method:"GET",params:r}),a=r=>e({url:"/rk/rkPipeConsumableLibrary/allIssue",method:"PUT",data:r});export{t as a,a as b,s as r};

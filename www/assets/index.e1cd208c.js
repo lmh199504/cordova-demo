@@ -1,0 +1,1 @@
+import{d as a,c as e,b as t}from"./index.a0335495.js";const r="_alarm_1veto_1",o={alarm:r},m=a({name:"Alarm",setup(){return()=>e("div",{class:o.alarm},[t("\u62A5\u8B66\u4FE1\u606F")])}});export{m as default};

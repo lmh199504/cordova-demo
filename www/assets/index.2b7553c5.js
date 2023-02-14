@@ -1,0 +1,1 @@
+import{e}from"./index.a0335495.js";const a=()=>e({url:"/rk/rkReagentLibrary/getPositionOccupancy",method:"GET"}),o=r=>e({url:"/rk/rkReagentLibrary/allIssue",method:"GET",params:r}),s=r=>e({url:"/rk/rkReagentLibrary/getById",method:"GET",params:r});export{s as a,o as b,a as r};
