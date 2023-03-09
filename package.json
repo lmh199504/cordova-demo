@@ -1,6 +1,6 @@
 {
   "name": "lmh.test.application",
-  "displayName": "微信",
+  "displayName": "睿科APP",
   "version": "1.0.0",
   "description": "A sample Apache Cordova application that responds to the deviceready event.",
   "main": "index.js",
